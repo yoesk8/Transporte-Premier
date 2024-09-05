@@ -11732,3 +11732,10 @@ html {
     left: -2vw;
   }
 }
+
+/* My css */
+.navbar-brand img {
+  height: 80px; /* Adjust height as needed */
+  width: auto;  /* Let the width adjust automatically based on the height */
+  max-width: 100%; /* Ensure it doesn't exceed its container */
+}
